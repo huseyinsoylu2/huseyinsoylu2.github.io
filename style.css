@@ -40,6 +40,6 @@
 .six {
   grid-column: 3;
   grid-row: 6 / 8;
-  background-color: rgb(8, 164, 175);
+  background-color: rgb(8, 164, 12);
   border-radius: 40px;
 }
